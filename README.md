@@ -187,7 +187,7 @@ An end-to-end video intelligence application that transcribes video content, gen
 | **Performance** | Local Whisper for English and Sarvam AI for Hindi/Hinglish, with retrieval-based chat over the full transcript |
 | **Security** | API keys managed through environment variables and secrets, never committed to the repository |
 | **Impact** | Turns long recordings into titles, summaries, action items, key decisions and open questions, exportable as PDF or TXT |
-| **Live Demo** | [Launch App](https://YOUR-AI-VIDEO-ASSISTANT.streamlit.app) |
+| **Live Demo** | [Launch App](https://jgntxpz4eb3pclpjs2d7su.streamlit.app/) |
 | **Repository** | [View on GitHub](https://github.com/2006181/-AI-Video-Assistant-With-RAG) |
 
 ### Engineering Perspective
@@ -210,8 +210,8 @@ A multi-agent research workflow where specialized agents search the web, collect
 | **Performance** | Fast LLM inference with Groq and web search through Tavily |
 | **Security** | API keys managed through environment variables and secrets |
 | **Impact** | Automates the search, collection and report-writing steps of a research task |
-| **Live Demo** | [Launch App](https://YOUR-MULTI-AGENT-RESEARCH.streamlit.app) |
-| **Repository** | [View on GitHub](https://github.com/2006181/YOUR-REPO-NAME) |
+| **Live Demo** | [Launch App](https://multi-agent-ai-research-system-with-langchain-ql8dqsdvwjlxnvmd.streamlit.app/) |
+| **Repository** | [View on GitHub](https://github.com/2006181/Multi-Agent-AI-Research-System-with-LangChain) |
 
 ### Engineering Perspective
 
@@ -233,8 +233,8 @@ A RAG-based college assistant that retrieves relevant information from college d
 | **Performance** | Semantic search with FAISS vector similarity and fast response generation with Groq |
 | **Security** | API keys managed through environment variables and secrets |
 | **Impact** | Gives students quick, document-grounded answers to college information queries |
-| **Live Demo** | [Launch App](https://YOUR-ABESIT-ASSISTANT.streamlit.app) |
-| **Repository** | [View on GitHub](https://github.com/2006181/YOUR-REPO-NAME) |
+| **Live Demo** | [Launch App](https://github.com/2006181/ABESIT-College-Assistant-AI-powered-chatbot-using-LangGraph-and-RAG..git) |
+| **Repository** | [View on GitHub](https://github.com/2006181/ABESIT-College-Assistant-AI-powered-chatbot-using-LangGraph-and-RAG..git) |
 
 ### Engineering Perspective
 
@@ -256,7 +256,7 @@ An AI assistant integrating Python application logic and a Streamlit frontend wi
 | **Performance** | Streamlit chat interface connected to an n8n agent workflow through webhooks |
 | **Security** | Webhook URL kept in Streamlit secrets so it is not exposed on GitHub |
 | **Impact** | One chat interface for Q&A, calendar, email, tasks, notes and expense tracking |
-| **Live Demo** | [Launch App](https://YOUR-PERSONAL-ASSISTANT.streamlit.app) |
+| **Live Demo** | [Launch App](https://q3xt3ntzfgofyjwupgvads.streamlit.app/) |
 | **Repository** | [View on GitHub](https://github.com/2006181/-Your_Personal_Assistant_using_n8n) |
 
 ### Engineering Perspective
@@ -279,8 +279,8 @@ A machine learning regression project that serves house price predictions throug
 | **Performance** | Random Forest regression model served as a working prediction API |
 | **Security** | Structured request handling through FastAPI endpoints |
 | **Impact** | Takes a model from raw data to a usable API instead of leaving it in a notebook |
-| **Live Demo** | [Open API](https://YOUR-API-LINK.onrender.com/docs) |
-| **Repository** | [View on GitHub](https://github.com/2006181/YOUR-REPO-NAME) |
+| **Live Demo** | [Launch App](https://californiahousepriceprediction-rxripw4nsm3bwntvg8dxgm.streamlit.app/) |
+| **Repository** | [View on GitHub](https://github.com/2006181/California_House_Price_Prediction) |
 
 ### Engineering Perspective
 
