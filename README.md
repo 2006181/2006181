@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="dark.svg" alt="Rahul Gupta | AI/ML Developer" width="100%" />
+</p>
+
+<br/>
+
 ## Hi there 👋
 
 <!--
