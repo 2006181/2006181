@@ -144,13 +144,13 @@ I enjoy developing end-to-end solutions — from data preprocessing and machine 
   <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=for-the-badge" alt="Data Visualization" />
 </p>
 
+
 ### ⚙️ Backend, APIs & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker&perline=8" alt="FastAPI, Streamlit and Docker" />
-</p>
-
-<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge" alt="Webhooks" />
 </p>
