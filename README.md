@@ -1,3 +1,6 @@
+git add README.md
+git commit -m "Add profile introduction"
+git push origin main
 <p align="center">
   <img src="dark.svg" alt="Rahul Gupta | AI/ML Developer" width="100%" />
 </p>
