@@ -173,35 +173,120 @@ I enjoy developing end-to-end solutions — from data preprocessing and machine 
 
 ## 🚀 Featured Projects
 
-### 🎥 AI Video Assistant with RAG
+<details open>
+<summary><b>01 · 🎥 AI Video Assistant with RAG</b></summary>
+
+<br>
 
 An end-to-end video intelligence application that transcribes video content, generates summaries and action items, and enables conversational question-answering over transcripts.
 
-**Technologies:** Python, Whisper, Sarvam AI, LangChain LCEL, Mistral AI, ChromaDB, Hugging Face Embeddings, yt-dlp, FFmpeg, Streamlit.
+| Dimension | Details |
+|---|---|
+| **Stack** | Python • Whisper • Sarvam AI • LangChain (LCEL) • Mistral AI • ChromaDB • Hugging Face Embeddings • yt-dlp • FFmpeg • Streamlit |
+| **Scale** | Personal AI engineering project |
+| **Performance** | Local Whisper for English and Sarvam AI for Hindi/Hinglish, with retrieval-based chat over the full transcript |
+| **Security** | API keys managed through environment variables and secrets, never committed to the repository |
+| **Impact** | Turns long recordings into titles, summaries, action items, key decisions and open questions, exportable as PDF or TXT |
+| **Live Demo** | [Launch App](https://YOUR-AI-VIDEO-ASSISTANT.streamlit.app) |
+| **Repository** | [View on GitHub](https://github.com/2006181/-AI-Video-Assistant-With-RAG) |
 
-### 🔬 Multi-Agent AI Research System
+### Engineering Perspective
+
+The project connects speech recognition, LLM summarization and retrieval-augmented generation in one pipeline. It represents the intersection of **speech AI, RAG, prompt engineering, and practical application design**. The hosted version accepts audio uploads, while YouTube and video inputs run locally.
+
+</details>
+
+<details>
+<summary><b>02 · 🔬 Multi-Agent AI Research System</b></summary>
+
+<br>
 
 A multi-agent research workflow where specialized agents search the web, collect information and compile structured research reports.
 
-**Technologies:** Python, LangChain, LangGraph, Groq, Tavily, BeautifulSoup, Requests, Streamlit.
+| Dimension | Details |
+|---|---|
+| **Stack** | Python • LangChain • LangGraph • Groq • Tavily • BeautifulSoup • Requests • Streamlit |
+| **Scale** | Personal AI engineering project |
+| **Performance** | Fast LLM inference with Groq and web search through Tavily |
+| **Security** | API keys managed through environment variables and secrets |
+| **Impact** | Automates the search, collection and report-writing steps of a research task |
+| **Live Demo** | [Launch App](https://YOUR-MULTI-AGENT-RESEARCH.streamlit.app) |
+| **Repository** | [View on GitHub](https://github.com/2006181/YOUR-REPO-NAME) |
 
-### 🎓 ABESIT College Assistant – AI College Information Chatbot
+### Engineering Perspective
+
+The project explores how agent orchestration can break a complex research task into specialized steps. It represents the intersection of **agentic AI, LangGraph workflows, tool use, and web data collection**.
+
+</details>
+
+<details>
+<summary><b>03 · 🎓 ABESIT College Assistant</b></summary>
+
+<br>
 
 A RAG-based college assistant that retrieves relevant information from college documents and answers student queries.
 
-**Technologies:** LangGraph, Groq, Hugging Face Embeddings, FAISS, RAG, Streamlit.
+| Dimension | Details |
+|---|---|
+| **Stack** | LangGraph • Groq • Hugging Face Embeddings • FAISS • RAG • Streamlit |
+| **Scale** | Personal AI engineering project built for ABESIT students |
+| **Performance** | Semantic search with FAISS vector similarity and fast response generation with Groq |
+| **Security** | API keys managed through environment variables and secrets |
+| **Impact** | Gives students quick, document-grounded answers to college information queries |
+| **Live Demo** | [Launch App](https://YOUR-ABESIT-ASSISTANT.streamlit.app) |
+| **Repository** | [View on GitHub](https://github.com/2006181/YOUR-REPO-NAME) |
 
-### 🤖 Personal AI Assistant powered by n8n and Streamlit
+### Engineering Perspective
+
+The project applies retrieval-augmented generation to a real campus need. It represents the intersection of **semantic search, conversational workflows, LLM integration, and practical software development**.
+
+</details>
+
+<details>
+<summary><b>04 · 🤖 Personal AI Assistant powered by n8n and Streamlit</b></summary>
+
+<br>
 
 An AI assistant integrating Python application logic and a Streamlit frontend with n8n automation workflows through webhooks.
 
-**Technologies:** n8n, Python, Streamlit, Webhooks.
+| Dimension | Details |
+|---|---|
+| **Stack** | n8n • Python • Streamlit • Webhooks |
+| **Scale** | Personal AI engineering project |
+| **Performance** | Streamlit chat interface connected to an n8n agent workflow through webhooks |
+| **Security** | Webhook URL kept in Streamlit secrets so it is not exposed on GitHub |
+| **Impact** | One chat interface for Q&A, calendar, email, tasks, notes and expense tracking |
+| **Live Demo** | [Launch App](https://YOUR-PERSONAL-ASSISTANT.streamlit.app) |
+| **Repository** | [View on GitHub](https://github.com/2006181/-Your_Personal_Assistant_using_n8n) |
 
-### 🏡 California House Price Prediction API
+### Engineering Perspective
+
+The project separates a no-code automation backend from a lightweight frontend. It represents the intersection of **agentic workflows, automation, API integration, and practical software development**.
+
+</details>
+
+<details>
+<summary><b>05 · 🏡 California House Price Prediction API</b></summary>
+
+<br>
 
 A machine learning regression project that serves house price predictions through a FastAPI backend.
 
-**Technologies:** Random Forest, FastAPI, MySQL.
+| Dimension | Details |
+|---|---|
+| **Stack** | Python • Random Forest • FastAPI • MySQL |
+| **Scale** | Personal ML engineering project |
+| **Performance** | Random Forest regression model served as a working prediction API |
+| **Security** | Structured request handling through FastAPI endpoints |
+| **Impact** | Takes a model from raw data to a usable API instead of leaving it in a notebook |
+| **Live Demo** | [Open API](https://YOUR-API-LINK.onrender.com/docs) |
+| **Repository** | [View on GitHub](https://github.com/2006181/YOUR-REPO-NAME) |
+
+### Engineering Perspective
+
+The project shows the full path from data preprocessing to model training to deployment. It represents the intersection of **machine learning, API engineering, data handling, and practical software development**.
+
+</details>
 
 ---
 
