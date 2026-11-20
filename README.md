@@ -1,3 +1,15 @@
+<h1 align="center">Hey there! 👋 I'm Rahul Gupta</h1>
+
+<h3 align="center">
+  AI/ML Developer | GenAI & Agentic AI Enthusiast
+</h3>
+
+<p align="center">
+  Building intelligent applications with Machine Learning, Deep Learning,
+  Generative AI and Agentic AI.
+</p>
+
+<br/>
 
 <p align="center">
   <img src="dark.svg" alt="Rahul Gupta | AI/ML Developer" width="100%" />
