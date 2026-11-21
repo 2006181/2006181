@@ -331,3 +331,17 @@ The project shows the full path from data preprocessing to model training to dep
 <a href="mailto:jaiguruji292001@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2006181&bg_color=0A101F&color=94A3B8&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&title_color=22D3EE&hide_border=true&custom_title=Rahul%20Gupta%27s%20Contribution%20Graph" alt="Contribution graph" />
+</div>
+
+---
+
+<h3 align="center"><code>Build intelligent systems. Engineer for reliability. Automate what matters.</code></h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
