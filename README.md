@@ -1,4 +1,3 @@
-﻿
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 
 <h3 align="center">
@@ -290,6 +289,27 @@ The project shows the full path from data preprocessing to model training to dep
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=2006181&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="GitHub streak" />
+<br/>
+<img width="49%" src="https://github-readme-stats-jade-five-49.vercel.app/api?username=2006181&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-jade-five-49.vercel.app/api/top-langs/?username=2006181&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006181/2006181/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2006181/2006181/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/2006181/2006181/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 Certifications & Achievements
 
 - Tata Group – GenAI-Powered Data Analytics Job Simulation (Forage).
@@ -302,17 +322,12 @@ The project shows the full path from data preprocessing to model training to dep
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/rahulgupta-70196b374">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/2006181">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://portfolio-iota-rose-84.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jaiguruji292001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/rahulgupta-70196b374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://portfolio-iota-rose-84.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" /></a>
+&nbsp;&nbsp;
+<a href="mailto:jaiguruji292001@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+
+</div>
