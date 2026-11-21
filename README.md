@@ -342,6 +342,6 @@ The project shows the full path from data preprocessing to model training to dep
 
 ---
 
-<h3 align="center"><code>Build intelligent systems. Engineer for reliability. Automate what matters.</code></h3>
+<h3 align="center"><code>`Build with LLMs. Orchestrate agents. Ship AI that works.`</code></h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
