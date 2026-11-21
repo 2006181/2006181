@@ -15,6 +15,27 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=2006181&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="GitHub streak" />
+<br/>
+<img width="49%" src="https://github-readme-stats-jade-five-49.vercel.app/api?username=2006181&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-jade-five-49.vercel.app/api/top-langs/?username=2006181&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006181/2006181/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2006181/2006181/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/2006181/2006181/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a third-year **B.Tech Computer Science and Engineering (Artificial Intelligence)** student at **ABES Institute of Technology (ABESIT), Ghaziabad (2024–2028)**, passionate about building practical and intelligent AI-powered applications.
@@ -286,27 +307,6 @@ A machine learning regression project that serves house price predictions throug
 The project shows the full path from data preprocessing to model training to deployment. It represents the intersection of **machine learning, API engineering, data handling, and practical software development**.
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=2006181&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="GitHub streak" />
-<br/>
-<img width="49%" src="https://github-readme-stats-jade-five-49.vercel.app/api?username=2006181&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats-jade-five-49.vercel.app/api/top-langs/?username=2006181&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006181/2006181/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2006181/2006181/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/2006181/2006181/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
